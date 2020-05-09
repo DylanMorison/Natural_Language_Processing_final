@@ -12,3 +12,4 @@ perform those algorithms.
 
 Lines 387 through 395 call the methods that perform all our cosine simularity computations.   
 
+-Dylan
